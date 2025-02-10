@@ -1,4 +1,4 @@
 streamlit==1.25.0
-groq>=0.18.0
+groq==0.18.0
 cassandra-driver==3.25.0
 duckduckgo-search==2.0.4
