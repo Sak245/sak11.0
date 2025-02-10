@@ -1,4 +1,6 @@
-streamlit==1.25.0
-groq==0.18.0  # Replace with the latest compatible version
-cassandra-driver
-duckduckgo-search==2.0.4
+streamlit
+groq
+rich
+markdown-it-py
+pygments
+mdurl
