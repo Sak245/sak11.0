@@ -5,3 +5,4 @@ markdown-it-py
 pygments
 mdurl
 cassandra-driver
+duckduckgo-search
