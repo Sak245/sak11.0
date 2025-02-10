@@ -1,4 +1,6 @@
 streamlit==1.25.0
-groq==0.18.0
-cassandra-driver==3.25.0
-duckduckgo-search==2.0.4
+groq==0.18.0  # Or remove this if not required
+rich>=10.14.0
+markdown-it-py>=2.2.0
+pygments<3.0.0,>=2.13.0
+mdurl~=0.1
